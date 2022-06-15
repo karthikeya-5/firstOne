@@ -1,0 +1,32 @@
+Karthikeya
+Karthikeya@2001
+
+
+mongodb+srv://Karthikeya:<password>@cluster0.az4za.mongodb.net/?retryWrites=true&w=majority
+
+
+
+
+
+karthik
+karthikeya
+mongodb+srv://karthik:<password>@cluster0.reneq.mongodb.net/?retryWrites=true&w=majority
+
+
+
+
+'mongodb+srv://karthik:karthikeya@cluster0.reneq.mongodb.net/stack?retryWrites=true&w=majority';
+
+
+
+
+{
+    "name":"karhtik",
+    "email":"karthik@gmail.com",
+    "phone":9393939393,
+    "work":"Student",
+    "password":"temp",
+    "cpassword":"temp"
+}
+
+
